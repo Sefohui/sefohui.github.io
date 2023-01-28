@@ -3,7 +3,7 @@
 This is my own page where I list my current projects and future plans
 
 # Current projects
-- [ ] [CoolStuff](/Sefohui/CoolStuff/README.md) - A collection of tools and functions to make life easier.
+- [/] [CoolStuff](/Sefohui/CoolStuff/README.md) - A collection of tools and functions to make life easier.
 - [ ] [SplitApp](/Sefohui/SplitApp/README.md) - An alternative to [LiveSplit](https://livesplit.org/) that would work on any OS and offer a wide variety of QoF features.
 
 
